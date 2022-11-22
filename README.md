@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @macksfield
 - 👀 I’m interested in building all things web
-- 🌱 I’m currently learning Vue3 and new React tools
-- 💞️ I’m looking to collaborate on a new business venture
 - 📫 How to reach me https://max.engineering/
 
 <!---
